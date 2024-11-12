@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
 <h3 align="center">A passionate AI Student and Neuroscience Enthusiast from Italy!</h3>
 
-- 🌱 I’m currently learning **AWS, Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **ML and DL Architectures**
 
