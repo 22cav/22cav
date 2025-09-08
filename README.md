@@ -6,8 +6,6 @@ Hey there! I'm Matteo
 
 <br>
 
----
-
 <table>
 <tr>
 <td valign="top" width="65%">
@@ -36,7 +34,7 @@ I'm a Data Science student from Italy! 🇮🇹
 </td>
 <td valign="top" width="35%">
 
-<img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5yeWdkYjJpZzB4dTN6a2dsbHQyNm5xa2trYjN1NWZldmhzdnI0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mjNWtarb5jQtvIy507/giphy.gif">
+<img align="right" valign="center" alt="Coding" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5yeWdkYjJpZzB4dTN6a2dsbHQyNm5xa2trYjN1NWZldmhzdnI0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mjNWtarb5jQtvIy507/giphy.gif">
 
 </td>
 </tr>
@@ -45,6 +43,13 @@ I'm a Data Science student from Italy! 🇮🇹
 ---
 
 ## 🛠️ Tech Stack & Tools
+
+<table>
+<tr>
+<td valign="top" width="35%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3I3Y3Z4dmNwdnlnbHZmYWZ0Ynh0c2Y5aDVoaW1za2VtaXYyM3U2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XQiJigZpYQ9dKrrEbv/giphy.gif" alt="Coding GIF" width="100%">
+</td>
+<td valign="top" width="65%">
 
 ### 💻 Languages & Frameworks
 <p align="left">
@@ -70,6 +75,10 @@ I'm a Data Science student from Italy! 🇮🇹
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
