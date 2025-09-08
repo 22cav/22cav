@@ -4,15 +4,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5yeWdkYjJpZzB4dTN6a2dsbHQyNm5xa2trYjN1NWZldmhzdnI0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mjNWtarb5jQtvIy507/giphy.gif" height="200" />
-</div>
-
 <br/>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5yeWdkYjJpZzB4dTN6a2dsbHQyNm5xa2trYjN1NWZldmhzdnI0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mjNWtarb5jQtvIy507/giphy.gif" height="300" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3I3Y3Z4dmNwdnlnbHZmYWZ0Ynh0c2Y5aDVoaW1za2VtaXYyM3U2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XQiJigZpYQ9dKrrEbv/giphy.gif">
+## 👨‍💻 About Me
 
 I'm a Data Science student from Italy! 🇮🇹
 
@@ -37,6 +35,9 @@ I'm a Data Science student from Italy! 🇮🇹
 <br/>
 
 ## 🛠️ Tech Stack & Tools
+
+
+<img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3I3Y3Z4dmNwdnlnbHZmYWZ0Ynh0c2Y5aDVoaW1za2VtaXYyM3U2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XQiJigZpYQ9dKrrEbv/giphy.gif">
 
 ### Languages & Frameworks
 <div align="center">
@@ -77,20 +78,12 @@ I'm a Data Science student from Italy! 🇮🇹
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://media.giphy.com/media/TumMwMkCpTPptXh6A2/giphy.gif" height="150" />
+<div align="right">
+  <img src="https://media.giphy.com/media/TumMwMkCpTPptXh6A2/giphy.gif" height="300" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=22cav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=22cav&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22cav&layout=compact&theme=dark&hide_border=false" height="180" alt="languages graph" />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=22cav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph" />
 </div>
 
 <br/>
