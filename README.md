@@ -4,13 +4,11 @@ Hey there! I'm Matteo
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<br>
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td valign="top" width="65%">
-
-## 👨‍💻 About Me
 
 I'm a Data Science student from Italy! 🇮🇹
 
@@ -32,7 +30,7 @@ I'm a Data Science student from Italy! 🇮🇹
 </div>
 
 </td>
-<td valign="top" width="35%">
+<td valign="center" width="35%">
 
 <img align="right" valign="center" alt="Coding" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5yeWdkYjJpZzB4dTN6a2dsbHQyNm5xa2trYjN1NWZldmhzdnI0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mjNWtarb5jQtvIy507/giphy.gif">
 
@@ -46,7 +44,7 @@ I'm a Data Science student from Italy! 🇮🇹
 
 <table>
 <tr>
-<td valign="top" width="35%">
+<td valign="center" width="35%">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3I3Y3Z4dmNwdnlnbHZmYWZ0Ynh0c2Y5aDVoaW1za2VtaXYyM3U2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XQiJigZpYQ9dKrrEbv/giphy.gif" alt="Coding GIF" width="100%">
 </td>
 <td valign="top" width="65%">
@@ -86,12 +84,12 @@ I'm a Data Science student from Italy! 🇮🇹
 
 <table align="center">
 <tr>
-<td valign="top" width="60%">
+<td valign="center" width="70%">
 
 <img src="https://streak-stats.demolab.com?user=22cav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph" />
 
 </td>
-<td valign="center" width="40%">
+<td valign="center" width="30%">
 
 <img align="right" src="https://media.giphy.com/media/TumMwMkCpTPptXh6A2/giphy.gif" height="300" />
 
