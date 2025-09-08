@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Hey there! I'm Matteo</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Hey there! I'm Matteo
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5yeWdkYjJpZzB4dTN6a2dsbHQyNm5xa2trYjN1NWZldmhzdnI0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mjNWtarb5jQtvIy507/giphy.gif" height="250" />
-</div>
 
 ---
 
@@ -40,7 +36,7 @@ I'm a Data Science student from Italy! 🇮🇹
 </td>
 <td valign="top" width="35%">
 
-<img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3I3Y3Z4dmNwdnlnbHZmYWZ0Ynh0c2Y5aDVoaW1za2VtaXYyM3U2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XQiJigZpYQ9dKrrEbv/giphy.gif">
+<img align="right" alt="Coding" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5yeWdkYjJpZzB4dTN6a2dsbHQyNm5xa2trYjN1NWZldmhzdnI0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mjNWtarb5jQtvIy507/giphy.gif">
 
 </td>
 </tr>
@@ -79,14 +75,14 @@ I'm a Data Science student from Italy! 🇮🇹
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="60%">
 
 <img src="https://streak-stats.demolab.com?user=22cav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph" />
 
 </td>
-<td valign="top" width="40%">
+<td valign="center" width="40%">
 
 <img align="right" src="https://media.giphy.com/media/TumMwMkCpTPptXh6A2/giphy.gif" height="300" />
 
