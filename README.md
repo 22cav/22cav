@@ -38,7 +38,6 @@ I'm a Data Science student from Italy! 🇮🇹
 </tr>
 </table>
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -78,8 +77,6 @@ I'm a Data Science student from Italy! 🇮🇹
 </tr>
 </table>
 
----
-
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -96,8 +93,6 @@ I'm a Data Science student from Italy! 🇮🇹
 </td>
 </tr>
 </table>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=22cav&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
