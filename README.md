@@ -83,7 +83,7 @@ I'm a Data Science student from Italy! 🇮🇹
 <tr>
 <td valign="center" width="70%">
 
-<img src="https://streak-stats.demolab.com?user=22cav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=22cav)](https://git.io/streak-stats)
 
 </td>
 <td valign="center" width="30%">
