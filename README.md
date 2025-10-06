@@ -83,7 +83,7 @@ I'm a Data Science student from Italy! 🇮🇹
 <tr>
 <td valign="center" width="70%">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=22cav)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=22cav&border_radius=5" alt="GitHub Streak" /></a>
 
 </td>
 <td valign="center" width="30%">
