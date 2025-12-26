@@ -75,6 +75,6 @@ I am a Data Science Master's student with a background in **AI**. I specialize i
 <div align="center">
 
 <a href="https://github.com/22cav">
-  <img src="https://github-readme-stats.vercel.app/api?username=22cav&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=22cav&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150" alt="statsgraph" />
 </a>
 </div>
